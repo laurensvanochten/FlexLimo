@@ -12,7 +12,7 @@ FlexLimo is based on Lemonade.im and extends the original grid with flexbox supp
 
 FlexLimo works the same as Lemonade.im with a few extra additions.
 
-Blog post with some background info can be found [here](http://tutorial.thekitchn.eu/flexlimo/)
+Blog post with some background info can be found [here](http://laurensvanochten.de/blog/a-great-and-customizable-css-grid)
 
 ## Include it
 In order to use it include it in you html
